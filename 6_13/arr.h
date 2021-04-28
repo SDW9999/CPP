@@ -16,5 +16,27 @@ public :
 
 class arr17 {
 public :
-	int 
+	int a[10];
+	int zero = 0;
+	int plus = 0;
+	int minus = 0;
+	void arr();
+};
+
+class arr18 {
+public:
+	int a[5];
+	int max = 0;
+	int min = 0;
+	void input();
+	void maxmin();
+
+};
+
+class arr19 {
+public :
+	int a[10] = { 10,10,10,10,50 };
+	int* ptr;
+	void ex1();
+	void ex2();
 };

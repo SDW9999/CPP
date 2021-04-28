@@ -1,9 +1,11 @@
 #include <iostream>
 #include "arr.h"
+#include "class.h"
 using namespace std;
 
-void main()
+void main() // cppEx
 {
-	arr15 arr;
-	arr.arr();
+	CRect rc;
+	rc.SetRect(0, 0, 20, 20);
+	rc.print();
 }

@@ -142,10 +142,14 @@
     <ClCompile Include="arr13.cpp" />
     <ClCompile Include="arr15.cpp" />
     <ClCompile Include="arr17.cpp" />
+    <ClCompile Include="arr18.cpp" />
+    <ClCompile Include="arr19.cpp" />
+    <ClCompile Include="class4.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="arr.h" />
+    <ClInclude Include="class.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
