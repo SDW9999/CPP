@@ -11,6 +11,8 @@ void arr17::arr()
 		cin >> a[i];
 
 		if (a[i] > 0)
+
+
 			plus++;
 
 		else if (a[i] < 0)
